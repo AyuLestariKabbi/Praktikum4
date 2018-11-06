@@ -10,7 +10,7 @@
             			 max=a;
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1.cpp/Flowchart1.jpg)
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1/Flowchart1.jpg)
 
 **Screenshoot**
 ![Screenshoot](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1.cpp/hasil1.png)
