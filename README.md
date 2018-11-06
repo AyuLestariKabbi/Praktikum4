@@ -13,7 +13,7 @@
 ![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1/Flowchart1.jpg)
 
 **Screenshoot**
-![hasil2](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1/hasil1.png)
+![hasil1](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1/hasil1.png)
 
 **code program lengkap**
 '''c++
@@ -45,7 +45,7 @@ int main()
 ![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan2/flowchart2.jpg)
 
 **Screenshoot**
-![Screenshoot]()
+![hasil2](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan2/hasil2.png)
 
 **code program lengkap**
 '''c++
