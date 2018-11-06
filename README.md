@@ -16,7 +16,7 @@
 ![hasil1](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan1/hasil1.png)
 
 **code program lengkap**
-'''c++
+```c++
 #include <iostream>
 using namespace std;
 int main()
@@ -48,7 +48,7 @@ int main()
 ![hasil2](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum4/master/Latihan2/hasil2.png)
 
 **code program lengkap**
-'''c++
+```c++
 #include <iostream>
 using namespace std;
 int main ()
