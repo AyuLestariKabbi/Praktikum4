@@ -32,7 +32,7 @@ int main()
     cout << "bilangan terbesar adalah; " <<max<< endl;
     return 0;
 }
-
+```
 
 ###latihan2.cpp : Susun algoritma untuk menginput sejumlah N barang, dengan rindian dua buah bilangan bulat yang masing - masing merupakan jumlah dan harga satuan suatu barang yang dibeli.
 
@@ -90,4 +90,4 @@ int main ()
     cout<< "Mendapatkan Diskon Sebesar :Rp"<<diskon<<endl;
     cout<< "Total Yang Harus Di bayar =Rp"<<bayar<<endl;
 }
-
+```
